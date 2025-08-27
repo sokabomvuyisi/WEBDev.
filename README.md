@@ -1,4 +1,4 @@
-# Programming Practical Assignment
+# Part-1 Organisation Overview
 
 This repository contains the part 1 of the organisation overview for ST10490509.  
 It includes the web page of the organisation.
